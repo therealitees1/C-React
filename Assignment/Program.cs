@@ -29,3 +29,23 @@ Console.WriteLine("Is Student: " + isStudent);
 Console.Write("Enter your username: ");
 string userName = Console.ReadLine();
 Console.WriteLine("Hello, " + userName );
+
+// Ask for user's name
+Console.Write("Enter your name: ");
+string name = Console.ReadLine();
+
+// Ask for first number
+Console.Write("Enter the first number: ");
+string firstInput = Console.ReadLine();
+int firstNumber = Convert.ToInt32(firstInput);
+
+// Ask for second number
+Console.Write("Enter the second number: ");
+string secondInput = Console.ReadLine();
+int secondNumber = Convert.ToInt32(secondInput);
+
+// Calculate the sum
+int sum = firstNumber + secondNumber;
+
+// Display the result
+Console.WriteLine("Hello, " + name + "! The sum of " + firstNumber + " and " + secondNumber + " is: " + sum);
