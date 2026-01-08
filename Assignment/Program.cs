@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Security.Cryptography;
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("My name is Itohowo Nkanang");
 Console.WriteLine("I am learning C# programming.");
@@ -15,7 +17,7 @@ bool isSchoolOpen = true;
 double averageWeightOfStudents = 55.5;
 // Variable declaration about myself
 string myName = "Itohowo Nkanang";
-int myAge = 22;
+int myAge = 15;
 double myHeight = 5.9;
 bool isStudent = true;
 char myGrade = 'A';
@@ -49,3 +51,28 @@ int sum = firstNumber + secondNumber;
 
 // Display the result
 Console.WriteLine("Hello, " + name + "! The sum of " + firstNumber + " and " + secondNumber + " is: " + sum);
+
+
+// if statement
+if(myAge >= 18)
+{
+    Console.WriteLine("You are an adult.");
+}
+else
+{
+    Console.WriteLine("You are a minor.");
+}
+
+// for loop
+for(int i = 1; i <= 15; i +=2)
+{
+    Console.WriteLine(i);
+}
+
+// function
+int AddNumbers(int a, int b)
+{
+    return a + b;
+}
+Console.WriteLine(AddNumbers(100, 20));
+
