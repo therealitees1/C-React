@@ -76,3 +76,28 @@ int AddNumbers(int a, int b)
 }
 Console.WriteLine(AddNumbers(100, 20));
 
+// Grade system using if-else
+char grade;
+Console.Write("Enter your score (0-100): ");
+int score = Convert.ToInt32(Console.ReadLine());
+if (score >= 90)
+{
+    grade = 'A';
+}
+else if (score >= 80)
+{
+    grade = 'B';
+}
+else if (score >= 70)
+{
+    grade = 'C';
+}
+else if (score >= 60)
+{
+    grade = 'D';
+}
+else
+{
+    grade = 'F';
+}
+Console.WriteLine("Your grade is: " + grade);
