@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#React\Name\bin\Debug\net10.0\Name.exe
+C:\Users\Hp\Desktop\C#React\Name\bin\Debug\net10.0\Name.deps.json
+C:\Users\Hp\Desktop\C#React\Name\bin\Debug\net10.0\Name.runtimeconfig.json
+C:\Users\Hp\Desktop\C#React\Name\bin\Debug\net10.0\Name.dll
+C:\Users\Hp\Desktop\C#React\Name\bin\Debug\net10.0\Name.pdb
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.sourcelink.json
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.dll
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\refint\Name.dll
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.pdb
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\Name.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#React\Name\obj\Debug\net10.0\ref\Name.dll

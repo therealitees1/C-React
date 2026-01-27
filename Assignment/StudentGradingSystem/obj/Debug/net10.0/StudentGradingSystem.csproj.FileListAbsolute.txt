@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.exe
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.deps.json
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.runtimeconfig.json
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.sourcelink.json
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\refint\StudentGradingSystem.dll
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#React\Assignment\StudentGradingSystem\obj\Debug\net10.0\ref\StudentGradingSystem.dll

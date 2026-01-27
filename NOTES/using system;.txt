@@ -1,0 +1,21 @@
+using system;
+
+static void main ();
+
+{
+console.write("Enter first Number:");
+double num = Convert.doublenum(Console.ReadLine());
+}
+
+
+{
+console.write("Enter Second Number");
+double num = convert.doublenum(console.ReadLine());
+}
+
+sum = num1 + num2;
+
+{
+console.WriteLine("$Total sum: {sum}");
+
+}
