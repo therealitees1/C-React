@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\bin\Debug\net10.0\AreaOfCircle.exe
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\bin\Debug\net10.0\AreaOfCircle.deps.json
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\bin\Debug\net10.0\AreaOfCircle.runtimeconfig.json
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\bin\Debug\net10.0\AreaOfCircle.dll
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\bin\Debug\net10.0\AreaOfCircle.pdb
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.sourcelink.json
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.dll
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\refint\AreaOfCircle.dll
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.pdb
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\AreaOfCircle.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#React\AreaOfCircle\obj\Debug\net10.0\ref\AreaOfCircle.dll
