@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#React\CalculateAverage\bin\Debug\net10.0\CalculateAverage.exe
+C:\Users\Hp\Desktop\C#React\CalculateAverage\bin\Debug\net10.0\CalculateAverage.deps.json
+C:\Users\Hp\Desktop\C#React\CalculateAverage\bin\Debug\net10.0\CalculateAverage.runtimeconfig.json
+C:\Users\Hp\Desktop\C#React\CalculateAverage\bin\Debug\net10.0\CalculateAverage.dll
+C:\Users\Hp\Desktop\C#React\CalculateAverage\bin\Debug\net10.0\CalculateAverage.pdb
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.sourcelink.json
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.dll
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\refint\CalculateAverage.dll
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.pdb
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\CalculateAverage.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#React\CalculateAverage\obj\Debug\net10.0\ref\CalculateAverage.dll
