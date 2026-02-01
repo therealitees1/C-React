@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.sourcelink.json
+C:\Users\Hp\Desktop\C#React\PassFail\bin\Debug\net10.0\PassFail.exe
+C:\Users\Hp\Desktop\C#React\PassFail\bin\Debug\net10.0\PassFail.deps.json
+C:\Users\Hp\Desktop\C#React\PassFail\bin\Debug\net10.0\PassFail.runtimeconfig.json
+C:\Users\Hp\Desktop\C#React\PassFail\bin\Debug\net10.0\PassFail.dll
+C:\Users\Hp\Desktop\C#React\PassFail\bin\Debug\net10.0\PassFail.pdb
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.dll
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\refint\PassFail.dll
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.pdb
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\PassFail.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#React\PassFail\obj\Debug\net10.0\ref\PassFail.dll
